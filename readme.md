@@ -1,4 +1,4 @@
-React-template
+React-template for codding practice 
 ==============
 
 [![build status][1]][2]
